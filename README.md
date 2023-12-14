@@ -1,2 +1,2 @@
 # Open Addressing Hash
-Данная реализация является улучшенной версией стандартного библиотечного класса `unordered_map`, а также класса `unordered_set`. 
+The implementation of std::unordered_map and std::unordered_set classes using open addressing hashing strategy. 
